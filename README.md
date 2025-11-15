@@ -36,9 +36,12 @@ How to Run Demos
 Ensure you have Python 3.x and install dependencies from requirements.txt
 For OCR demo: Run python src/ocr_demo.py to extract text from data/sample_news.png
 For sentiment demo: Run python src/sentiment_demo.py to analyze sentiment in data/sample_news.txt
+
 Team
 Student A (Roll No): Web scraping, Sentiment
 Student B (Roll No): OCR, Database
 Student C (Roll No): Dashboard, Documentation
+
 References
+
 See references.txt
